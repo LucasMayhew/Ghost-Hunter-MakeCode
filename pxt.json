@@ -1,7 +1,9 @@
 {
-    "name": "go ti - duupe",
+    "name": "gost honter",
     "dependencies": {
-        "device": "*"
+        "device": "*",
+        "palette": "*",
+        "animation": "*"
     },
     "description": "",
     "files": [
